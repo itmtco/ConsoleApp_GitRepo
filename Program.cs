@@ -1,4 +1,6 @@
 ﻿
 string name = "John";
 
-Console.WriteLine(name);
+string lastName = "Doe";
+
+Console.WriteLine(name + lastName);
